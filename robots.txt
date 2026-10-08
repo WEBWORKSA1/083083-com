@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://083083.com/sitemap.xml
